@@ -24,16 +24,16 @@ OSSN ( open source social networkings)
   <li>MySql</i></li>
   <li>FireZilla</i></li>
   
-## Viewing and modifying the admin panel
+## View and modifying the admin panel
   <li>Open your browser and input this (http://localhost/phpmyadmin)
   <li>Create a new table and name it ( Myossndatabase )</i></li>
-  <li>Once you are done with that now get your files cloned from this repository read to move</i></li>
+  <li>Once you are done with that now get your files cloned from this repository ready to move</i></li>
   
 ## Installation 
   <li>Move the files to htdocs ( check through the Explorer folder on your XAMPP control panel )</i></li>
   <li>Also create a new folder named:- ossn_data</i></li>
   <li>Open your webbrowser and search { localhost/open-source-social-networking }</i></li>
-  <li>Read the terms of policy and privacy ( i'm sure your XAMPP server matched with the requirements😉</i></li>
+  <li>Read the terms of policy and privacy ( i'm sure your XAMPP server matched with the requirements😉 )</i></li>
   
 ## Filling the forms 
   <li>admin/administration name : { Your choice }<i></li>
@@ -41,9 +41,9 @@ OSSN ( open source social networkings)
   <li>database name : Myossndatabase { must be the same name with the table you had previously created</i></li>
   <li>Server : Localhost </i></li>
   <li>Do not bother to change the save data directory since , we had previously created a folder similar to that ( ossn_data )</i></li>
-  <li>You should be able to fill in the remaining forms but <b> Note: Do not provide any database password since your table doesn't have any too😑</b>
+  <li>You should be able to fill in the remaining forms but <b> Note: Do not provide any database password since your table doesn't have any too</b>
   
-## Finsihing touches 
+## Finishing touches 
   <li>Search in your browser ( localhost/open-source-social-networking/administrator )</i></li>
   <li>Input your previous logins provided during the initial installation</i></li>
   <li>😁 Yeah, that feeling.... you are now logged in as an admin</i></li>
